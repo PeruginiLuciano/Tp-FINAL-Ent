@@ -1,7 +1,7 @@
 
 
 #!/bin/bash
-
+  
 # Declaracion de variables
 REG_VALIDAR_OPCION="^[0-4]$" # Variable donde guardamos una expresion regular para comparar con la opcion seleccionada 
 #------------------------------------------------------------------------------------------------------------------#
