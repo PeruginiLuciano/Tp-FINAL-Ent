@@ -61,3 +61,8 @@ tar -czvf imagenes_generadas.tar.gz "$directorio_salida"
 md5sum imagenes_generadas.tar.gz > suma_verificacion.txt
 
 echo "Imágenes generadas, comprimidas y suma de verificación generada."
+
+# Borramos directorio creado para guardar las imagenes
+
+rm -r "$directorio_salida"
+
