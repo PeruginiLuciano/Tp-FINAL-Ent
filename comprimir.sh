@@ -37,8 +37,6 @@ then
 	rm -r imagenes_procesadas
 	rm -r Archivos_nombres
 	rm -r imagenes_generadas
-	
-
 else
         echo "no se genero zip ya que no hay archivos de imagenes" 
 fi
