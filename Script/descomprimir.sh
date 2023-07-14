@@ -6,6 +6,7 @@
 ARCHIVO_COMPRIMIDO=$1
 SUMA_VERIFICACION=$2
 
+
 # Descomprimir el archivo comprimido
 directorio_destino=$(pwd)
 
