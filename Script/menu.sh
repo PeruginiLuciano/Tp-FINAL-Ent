@@ -176,7 +176,7 @@ do
 			else
 				limpiar_consola
 				echo "ERROR, no se encontraron los archivos ingresados"
-				echo "$RTA_ARG"
+				
 				menu "Descomprimir error"			 
 			fi
 		elif [ "$OPCION" -eq 3 ] 
